@@ -6,7 +6,7 @@
 
 ### STEP 2: Run redis-cli to check if it is working 
 
-### STEP 3: Go to upstash to use a remote redis server: : https://console.upstash.com/pages/
+### STEP 3: Go to upstash to use a remote redis server: : https://upstash.com/
 
 ### STEP 3: Create a redis database and connect both the sides
 
